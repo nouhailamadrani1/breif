@@ -1,0 +1,25 @@
+.carte{
+    background-color: rgb(163, 177, 163);
+}
+.titrecarte h4{
+    background: black;
+}
+.btn{
+    background:rgb(17, 164, 214);
+}
+.btn1{
+
+    background:rgb(157, 215, 235);
+}
+
+.btnadd{
+    background: black
+    ;
+    color:rgb(17, 164, 214) ;
+    border: black;
+}
+.modal-content{
+   
+    background-position: right bottom;
+    background-color: rgb(252, 241, 241);
+}
