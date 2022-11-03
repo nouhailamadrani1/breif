@@ -293,9 +293,7 @@
 								<!-- IN PROGRESS TASKS HERE -->
 								<?php
 								//PHP CODE HERE
-								//DATA FROM getTasks() FUNCTION
-								// include('scripts.php');
-								//PHP CODE HERE
+								
 								$status  = 'In_Progress';
 								//DATA FROM getTasks() FUNCTION
 								getTasks($status);
@@ -318,7 +316,6 @@
 								<!-- DONE TASKS HERE -->
 								<?php
 								//PHP CODE HERE
-								//DATA FROM getTasks() FUNCTION
 								$status  = 'Done';
 								//DATA FROM getTasks() FUNCTION
 								getTasks($status);

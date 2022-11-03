@@ -23,3 +23,8 @@
     background-position: right bottom;
     background-color: rgb(252, 241, 241);
 }
+
+.pace {
+    display: none;
+}
+
